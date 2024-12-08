@@ -69,7 +69,6 @@ st.markdown("""
     <h3 style="text-align: center;">SG SERVICES PVT. LTD.</h3>
     <p style="text-align: center; font-size: 1.1em;">
         MD & CEO : <b> MR.Sathesh Goud</b> 
-        Delivery Head: <b> Gafoor Shah</b>
     </p>
 </div>
 """, unsafe_allow_html=True)
