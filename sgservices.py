@@ -3,8 +3,8 @@ from PIL import Image
 import time
 
 # Load the uploaded image
-logo_path = "/workspaces/sglive/SATHESH GOUD.jpg"
-main = "/workspaces/sglive/SATHESH GOUD.jpg"
+logo_path = "SATHESH GOUD.jpg"
+main = "SATHESH GOUD.jpg"
 logo = Image.open(logo_path)
 
 # Page Configuration
