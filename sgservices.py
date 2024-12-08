@@ -55,7 +55,7 @@ st.markdown("""
             margin-top: 20px;
         }
     </style>
-    <div class="banner"> !!! Congratulations !!!<br> SATHESH GOUD PRIVATE LIMITED!</div>
+    <div class="banner"> !!! Congratulations !!!<br> SATHESH GOUD SERVICES PRIVATE LIMITED!</div>
     <div class="tagline">POWERING PROGRESS TOGETHER</div>
     <div class="subtext">We're thrilled to release the new website, "SG Services."</div>
 """, unsafe_allow_html=True)
@@ -68,7 +68,7 @@ st.markdown("""
 <div class="congrats-box">
     <h3 style="text-align: center;">SG SERVICES PVT. LTD.</h3>
     <p style="text-align: center; font-size: 1.1em;">
-        Director: <b>Sathish Goud</b> 
+        MD & CEO : <b> MR.Sathesh Goud</b> 
         Delivery Head: <b> Gafoor Shah</b>
     </p>
 </div>
@@ -77,7 +77,7 @@ st.markdown("""
 # High-Level Content
 st.write("""
 ### A New Chapter of Innovation and Excellence
-This is a defining moment for **Sathesh Goud Pvt. Ltd.** as we launch the website that symbolizes growth, innovation, and success. Congratulations to the team for their hard work and dedication.
+This is a defining moment for **Sathesh Goud Services Pvt. Ltd.** as we launch the website that symbolizes growth, innovation, and success. Congratulations to the team for their hard work and dedication.
 
 It's time to take **SG SERVICES** live and let the world see the fruits of your efforts.
 """)
