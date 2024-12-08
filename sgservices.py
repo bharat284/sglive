@@ -3,8 +3,8 @@ from PIL import Image
 import time
 
 # Load the uploaded image
-logo_path = "C://Users//ADMIN//Desktop//MY Udyog//SATHESH GOUD.JPG"
-main = "C:\\Users\\ADMIN\\Desktop\\MY Udyog\\SATHESH GOUD.JPG"
+logo_path = "SATHESH GOUD.JPG"
+main = "SATHESH GOUD.JPG"
 logo = Image.open(logo_path)
 
 # Page Configuration
